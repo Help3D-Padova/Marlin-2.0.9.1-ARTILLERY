@@ -28,7 +28,7 @@
 /**
  * Marlin release version identifier
  */
-#define SHORT_BUILD_VERSION "Marlin-2.0.9.1-V1-GeniusMB"
+#define SHORT_BUILD_VERSION "V1_GeniusMB_HELP3D"
 
 /**
  * Verbose version identifier which should contain a reference to the location
