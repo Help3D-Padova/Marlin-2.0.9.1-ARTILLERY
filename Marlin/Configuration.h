@@ -69,7 +69,7 @@
 // @section info
 
 // Author info of this build printed to the host during boot and M115
-#define STRING_CONFIG_H_AUTHOR "(H3D_X1_BL_HEM_2.0.9.1_V1)" // Who made the changes.
+#define STRING_CONFIG_H_AUTHOR "(H3D_X1_BL_HEM_5V_2.0.9.1_V1)" // Who made the changes.
 #define CUSTOM_VERSION_FILE Version.h // Path from the root directory (no quotes)
 
 /**
@@ -143,7 +143,7 @@
 #endif
 
 // Name displayed in the LCD "Ready" message and Info menu
-#define CUSTOM_MACHINE_NAME "Artillery X1 BLTOUCH HEMERA - Patreon Edition"
+#define CUSTOM_MACHINE_NAME "Artillery X1 BLTOUCH HEMERA 5V - Patreon Edition"
 
 // Printer's unique ID, used by some programs to differentiate between machines.
 // Choose your own or use a service like https://www.uuidgenerator.net/version4
