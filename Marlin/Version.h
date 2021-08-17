@@ -28,7 +28,7 @@
 /**
  * Marlin release version identifier
  */
-#define SHORT_BUILD_VERSION "V7_X1BL_HELP3D"
+#define SHORT_BUILD_VERSION "V7_X1BL_5V_HELP3D"
 
 /**
  * Verbose version identifier which should contain a reference to the location
